@@ -4,12 +4,12 @@ Repo Onyourguide รวบรวมการฝึกฝนในช่วงท
 
 Python
 - File Python_Basic ฝึกโจทย์พื้นฐาน ex. Variable , Input Output , Operators , Condition
-- File Python_Pratice ฝึกกระบวนการคิด ex. Loop , iterable , Basic
+- File Python_Pratice ฝึกกระบวนการคิด ex. Basic , Loop , iterable
 
 Java OOP
 - การเขียนโปรแกรมเชิงวัตถุ
   - Attribute = คุณลักษณะ ex. สี ขนาด พันธุ์
-  - Method = การกระทำ , พฤติกรรม
+  - Method = การกระทำ , พฤติกรรม , คำสั่ง
 
 C# Unity 
 - การทำเกมด้วยโปรแกรม unity
