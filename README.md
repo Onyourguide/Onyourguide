@@ -5,6 +5,7 @@ Repo Onyourguide รวบรวมการฝึกฝนในช่วงท
 Python
 - File Python_Basic ฝึกโจทย์พื้นฐาน ex. Variable , Input Output , Operators , Condition
 - File Python_Pratice ฝึกกระบวนการคิด ex. Basic , Loop , iterable
+- Face Recognition 
 
 Java OOP
 - การเขียนโปรแกรมเชิงวัตถุ
