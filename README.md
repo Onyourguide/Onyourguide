@@ -4,7 +4,7 @@ Repo Onyourguide รวบรวมการฝึกฝนในช่วงท
 
 Python
 - File Python_Basic ฝึกโจทย์พื้นฐาน ex. Variable , Input Output , Operators , Condition
-- File Python_Pratice ฝึกกระบวนการคิด ex. Basic , Loop , iterable
+- File Python_Practice ฝึกกระบวนการคิด ex. Basic , Loop , iterable
 https://drive.google.com/drive/folders/1sIlkdx7r5F7Nke2jveokwPdLxKGMpM8A?usp=drive_link
 - Face Recognition 
 
